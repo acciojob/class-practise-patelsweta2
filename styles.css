@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+p{
+	display:block;
+}
+.selector{
+	font-size: 20px;
+	color: #00f;
+	background-color: #eee;
+	font-family: Arial;
+}
